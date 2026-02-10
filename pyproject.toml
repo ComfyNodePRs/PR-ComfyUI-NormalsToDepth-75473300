@@ -29,7 +29,7 @@ Documentation = "https://github.com/EMkrtchyan/ComfyUI-NormalsToDepth/wiki"
 "Bug Tracker" = "https://github.com/EMkrtchyan/ComfyUI-NormalsToDepth/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "emkrtchyan"
 DisplayName = "ComfyUI-NormalsToDepth"
 Icon = ""
 includes = [] 
